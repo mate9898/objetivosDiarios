@@ -1,4 +1,4 @@
-# 📊 Daily Sales Dashboard – Retail Branch Performance Tracker
+# 📊 objetivosDiarios – Retail Branch Performance Tracker
 
 Dashboard operativo de objetivos y ventas diarias por sucursal, desarrollado en PHP con integración a SQL Server.
 Diseñado para retail multi-sucursal con seguimiento en tiempo real por atributo de producto,
