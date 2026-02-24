@@ -3,14 +3,14 @@ Dashboard operativo de objetivos y ventas diarias por sucursal, desarrollado en 
 
 🚀 Features
 
-_Visualización de objetivos vs. ventas por sucursal, filtrable en tiempo real
-_Desglose por atributo: Calzado, Indumentaria, Accesorios y Medias
-_Vista operativa del día actual con estado (En ritmo / En riesgo / Fuera de objetivo)
-_Análisis de rendimiento del día anterior con comparativa vs. semana previa
-_Gráficos interactivos de los últimos 7 días y evolución mensual (Chart.js)
-_KPIs de cumplimiento mensual acumulado por categoría
-_Indicador de tendencia basado en los últimos 6 días con venta
-_Ranking de sucursales por cumplimiento
+Visualización de objetivos vs. ventas por sucursal, filtrable en tiempo real
+Desglose por atributo: Calzado, Indumentaria, Accesorios y Medias
+Vista operativa del día actual con estado (En ritmo / En riesgo / Fuera de objetivo)
+Análisis de rendimiento del día anterior con comparativa vs. semana previa
+Gráficos interactivos de los últimos 7 días y evolución mensual (Chart.js)
+KPIs de cumplimiento mensual acumulado por categoría
+Indicador de tendencia basado en los últimos 6 días con venta
+Ranking de sucursales por cumplimiento
 
 
 🛠️ Stack
